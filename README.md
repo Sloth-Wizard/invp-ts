@@ -10,7 +10,7 @@ npm i invp-ts
 
 ### Init    
 
-Ue w/e querySelector you want, could be ```#some_id``` or ```[data-something="true"]``` for example     
+Use w/e querySelector you want, could be ```#some_id``` or ```[data-something="true"]``` for example     
 
 ```typescript
 import { InVp } from 'invp';
