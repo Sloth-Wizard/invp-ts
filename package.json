@@ -22,16 +22,16 @@
   },
   "homepage": "https://github.com/Sloth-Wizard/invp-ts#readme",
   "devDependencies": {
-    "@types/jest": "^27.4.0",
+    "@types/jest": "^27.4.1",
     "html-loader-jest": "^0.2.1",
-    "jest": "^27.4.7",
-    "ts-jest": "^27.1.3",
-    "ts-loader": "^9.2.6",
-    "ts-node": "^10.4.0",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4",
+    "ts-loader": "^9.2.8",
+    "ts-node": "^10.7.0",
     "tslib": "^2.3.1",
-    "typescript": "^4.5.4"
+    "typescript": "^4.6.3"
   },
   "dependencies": {
-    "rxjs": "^7.5.4"
+    "rxjs": "^7.5.5"
   }
 }
