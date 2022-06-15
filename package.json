@@ -1,8 +1,8 @@
 {
   "name": "invp-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if elements come in viewport using rxjs. Inspired by in-view.js",
-  "main": "index.js",
+  "main": "invp.ts",
   "scripts": {
     "test": "jest"
   },
